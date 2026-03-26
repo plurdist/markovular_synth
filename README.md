@@ -2,7 +2,7 @@
 
 This repository contains a set of Max/MSP patches used as part of a live performance instrument combining granular synthesis, a Markov-based generative system, vocoding, and effects processing.
 
-The system is designed to encourage exploration of granular textures from source audio, with an optional Markov-based module generating MIDI data that can modulate the sound in real time. 
+The system is designed to encourage exploration of granular textures from source audio, with an optional Markov-based module semi-autonomously generating MIDI data that can modulate the sound in real time. 
 
 These patches draw on a range of existing ideas and tutorials, which have been adapted and integrated into a single performance system.
 
